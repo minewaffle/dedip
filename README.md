@@ -1,6 +1,6 @@
 # dedip
-Find more about an IP Address. 
+Find more information about an IP Address. 
 
-please input the following commands
+# please follow the following installation;
 pip install pyfiglet
 pip install colorama
