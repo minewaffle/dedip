@@ -1,5 +1,5 @@
 # dedip
-Find more information about an IP Address. 
+This tool is for finding more detailed information of an IP Address.
 
 # please follow the following installation;
 ```
