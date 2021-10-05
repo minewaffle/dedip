@@ -1,3 +1,5 @@
+#SPONSERED BY DEDPHILE https://discord.gg/8AwF9y4yhP
+#Yo, it's waffle, got some cool ideas tell me ;).
 import json
 import urllib.request
 import pyfiglet
