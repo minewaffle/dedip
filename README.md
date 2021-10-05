@@ -17,7 +17,7 @@ pkg install git
 ```
 git clone https://github.com/minewaffle/dedip
 ```
-#how to run it;
+# how to run it;
 ```
 cd dedip
 ```
